@@ -1,27 +1,10 @@
-Llantabot Logo
-Inicio
-Funcionalidades clave
-Cómo funciona
-Paquetes
-Contacto
-Acceso a clientes
+
 Automatización Inteligente para Más Ventas y Menos Esfuerzo
 ¿Te imaginas vender llantas sin contestar un solo mensaje?
 Olvídate de estar pegado al celular todo el día respondiendo lo mismo. LlantaBot es tu primer asistente virtual que no duerme, no se queja y sí genera ventas. Si estás empezando tu negocio o quieres digitalizar tu taller, esto es para ti.
 
 Llantabot Hero
 Cotizaciones realizadas
-0
-En el día
-
-0
-En el mes
-
-0
-En el año
-
-0
-En general
 
 Cotizaciones rápidas y precisas, 24/7
 Ofrece respuestas instantáneas basadas en tu inventario disponible.
@@ -93,14 +76,6 @@ $ 1,450.00 / Mes
 Vulka Bot es una solución integral que facilita la venta de llantas, combinando un chatbot interactivo, panel de estadísticas, gestión de inventario y herramientas de marketing digital para optimizar la atención al cliente y potenciar tus ventas.
 
 El paquete incluye:
-Mi cuenta
-Gestionar llantas
-Marketing publicidad
-Marketing Ventas por goteo
-Marketing postventa
-Plantillas
-Recibos de pago
-Recibos de pago detalles
 Flyer digital: Plantillas personalizables para crear material promocional que resalte tus ofertas y servicios de manera efectiva.
 Soporte vía grupo de WA: Disponibilidad de 9am a 6pm de L - V para asistencia rápida y efectiva a través de WhatsApp, asegurando que nunca te sientas solo.
 Taller Bot
@@ -118,6 +93,7 @@ Contactos: Acceso a una base de datos organizada de contactos, facilitando la ge
 Cotizaciones: Herramienta para almacenar y gestionar cotizaciones de manera eficiente, permitiendo un fácil acceso y seguimiento.
 Flyer digital: Plantillas personalizables para crear material promocional que resalte tus ofertas y servicios de manera efectiva.
 Soporte vía grupo de WA: Disponibilidad de 9am a 6pm de L - V para asistencia rápida y efectiva a través de WhatsApp, asegurando que nunca te sientas solo.
+
 Más Popular
 Llantera Bot
 $ 5,800.00 / Mes
@@ -132,6 +108,7 @@ Soluciones Personalizadas con Bots: Desarrollamos y gestionamos bots adaptados a
 Líder en Innovación: Acceso Exclusivo a Nuevas Funcionalidades: Siempre estarás a la vanguardia con las últimas mejoras y herramientas lanzadas al mercado. Como pionero en lanzamientos, te ofrecemos acceso prioritario a las novedades y avances que harán que tu negocio se destaque.
 Flyer digital: Plantillas personalizables para crear material promocional que resalte tus ofertas y servicios de manera efectiva.
 Soporte vía grupo de WA: Disponibilidad de 9am a 6pm de L - V para asistencia rápida y efectiva a través de WhatsApp, asegurando que nunca te sientas solo.
+
 Bot Llantera Adicional
 $ 1,000.00 / Mes
 El Bot adicional facilita la venta de llantas, combinando un chatbot interactivo, panel de estadísticas, gestión de inventario y herramientas de marketing digital para optimizar la atención al cliente y potenciar tus ventas de minoristas.
